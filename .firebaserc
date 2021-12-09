@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "trello-clone-de4af": {
+      "hosting": {
+        "kanban-clone-angular": [
+          "trello-clone-de4af"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "trello-clone-de4af"
+  }
+}
