@@ -1,0 +1,89 @@
+{
+  "configVersion": 1,
+  "timestamp": 1639033612679,
+  "index": "/kanban-clone-angular/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/kanban-clone-angular/393.29cd137feabec7cb.js",
+        "/kanban-clone-angular/favicon.ico",
+        "/kanban-clone-angular/index.html",
+        "/kanban-clone-angular/main.7db4df3923e84d75.js",
+        "/kanban-clone-angular/manifest.webmanifest",
+        "/kanban-clone-angular/polyfills.b9ea9afd2b9b7a3a.js",
+        "/kanban-clone-angular/runtime.407d76cd19f7a3e0.js",
+        "/kanban-clone-angular/styles.331e7fe98ce50f2a.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/kanban-clone-angular/assets/default-user.svg",
+        "/kanban-clone-angular/assets/google-logo.svg",
+        "/kanban-clone-angular/assets/google-signin.png",
+        "/kanban-clone-angular/assets/icons/icon-128x128.png",
+        "/kanban-clone-angular/assets/icons/icon-144x144.png",
+        "/kanban-clone-angular/assets/icons/icon-152x152.png",
+        "/kanban-clone-angular/assets/icons/icon-192x192.png",
+        "/kanban-clone-angular/assets/icons/icon-384x384.png",
+        "/kanban-clone-angular/assets/icons/icon-512x512.png",
+        "/kanban-clone-angular/assets/icons/icon-72x72.png",
+        "/kanban-clone-angular/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/kanban-clone-angular/393.29cd137feabec7cb.js": "fc7e0aaf6ec1d48e8a68e7326dbbe964d5e00036",
+    "/kanban-clone-angular/assets/default-user.svg": "b868292297268825d4236bd9c11b3e2635972806",
+    "/kanban-clone-angular/assets/google-logo.svg": "4524589b0dceefb6ae6389f36634441df69152d5",
+    "/kanban-clone-angular/assets/google-signin.png": "ff65be2c29b5262b7e182897910addad62c8644a",
+    "/kanban-clone-angular/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/kanban-clone-angular/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/kanban-clone-angular/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/kanban-clone-angular/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/kanban-clone-angular/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/kanban-clone-angular/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/kanban-clone-angular/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/kanban-clone-angular/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/kanban-clone-angular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/kanban-clone-angular/index.html": "e6015fe07a85a48a48b3a592a21727e646d6ed37",
+    "/kanban-clone-angular/main.7db4df3923e84d75.js": "534b1df3175c195675512848790f0505cb311e9f",
+    "/kanban-clone-angular/manifest.webmanifest": "49462f156517e506dd05e9a16e7f82d6fb016848",
+    "/kanban-clone-angular/polyfills.b9ea9afd2b9b7a3a.js": "0726be7a09a216e69457c9fa40f32f7b82611e09",
+    "/kanban-clone-angular/runtime.407d76cd19f7a3e0.js": "188756de3a144c3ae12d8fa6794a5be539e4dc0c",
+    "/kanban-clone-angular/styles.331e7fe98ce50f2a.css": "45d7a0728d0c22b4e6000d94141c5926f87e6c16"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
