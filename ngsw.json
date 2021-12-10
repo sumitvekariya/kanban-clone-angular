@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1639033612679,
+  "timestamp": 1639139179058,
   "index": "/kanban-clone-angular/index.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/kanban-clone-angular/393.29cd137feabec7cb.js",
         "/kanban-clone-angular/favicon.ico",
         "/kanban-clone-angular/index.html",
-        "/kanban-clone-angular/main.7db4df3923e84d75.js",
+        "/kanban-clone-angular/main.a67e3c2f9b51086e.js",
         "/kanban-clone-angular/manifest.webmanifest",
         "/kanban-clone-angular/polyfills.b9ea9afd2b9b7a3a.js",
         "/kanban-clone-angular/runtime.407d76cd19f7a3e0.js",
@@ -60,8 +60,8 @@
     "/kanban-clone-angular/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/kanban-clone-angular/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/kanban-clone-angular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/kanban-clone-angular/index.html": "e6015fe07a85a48a48b3a592a21727e646d6ed37",
-    "/kanban-clone-angular/main.7db4df3923e84d75.js": "534b1df3175c195675512848790f0505cb311e9f",
+    "/kanban-clone-angular/index.html": "ab92467a0b5b5e069257547f977f1b0aebfef13b",
+    "/kanban-clone-angular/main.a67e3c2f9b51086e.js": "ee6c5a3cc0ad847b6e9583720324050d949804eb",
     "/kanban-clone-angular/manifest.webmanifest": "49462f156517e506dd05e9a16e7f82d6fb016848",
     "/kanban-clone-angular/polyfills.b9ea9afd2b9b7a3a.js": "0726be7a09a216e69457c9fa40f32f7b82611e09",
     "/kanban-clone-angular/runtime.407d76cd19f7a3e0.js": "188756de3a144c3ae12d8fa6794a5be539e4dc0c",
